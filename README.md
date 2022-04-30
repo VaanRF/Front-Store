@@ -1,6 +1,7 @@
 # Store
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
+This project was generated with [Angular CLI]
+Este projeto é um front, componetizado para ser usado em e-commerce
 
 ## Development server
 
